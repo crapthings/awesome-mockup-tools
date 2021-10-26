@@ -48,12 +48,15 @@ this is a mockup tools list that useful for your ui prototyping
 - https://fontawesome.com/
 - https://heroicons.com/
 - https://icomoon.io/
+- https://iconstore.co/
 - https://materialdesignicons.com/
 - https://react-icons.github.io/react-icons/
 
 ### Illustrations
 
 - https://doodleipsum.com/
+- https://drawkit.com/
+- https://undraw.co/
 
 ### Placeholder Images
 
