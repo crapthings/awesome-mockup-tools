@@ -66,3 +66,7 @@ this is a mockup tools list that useful for your ui prototyping
 ### Tailwind CSS Related
 
 - https://hypercolor.dev/
+
+### Chinese Fonts
+
+- https://github.com/chengda/popular-fonts
