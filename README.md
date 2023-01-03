@@ -27,6 +27,7 @@ this is a mockup tools list that useful for your ui prototyping
 
 ### Color Generator
 
+- https://uicolors.app/ # for tailwindcss user
 - https://colorhunt.co/
 - https://couleur.io/
 - https://huetone.ardov.me/
