@@ -4,6 +4,7 @@ this is a mockup tools list that useful for your ui prototyping
 
 ### Collection
 
+- https://uigoodies.com/
 - https://cccreate.co/
 - https://components.ai/
 - https://houdini.how/
